@@ -1,6 +1,6 @@
 # Python爬虫项目
 
-python3.6
+![python](https://img.shields.io/badge/python-3.6-brightgreen.svg)
 
 1. 爬取哔哩哔哩弹幕
 
